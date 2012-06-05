@@ -1,0 +1,6 @@
+<TextureAtlas imagePath="player_ship.png">
+    <SubTexture name="down" x="0" y="0" width="130" height="130"/>;
+    <SubTexture name="left" x="0" y="130" width="130" height="100"/>;
+    <SubTexture name="right" x="0" y="230" width="130" height="100"/>;
+    <SubTexture name="up" x="0" y="330" width="130" height="130"/>;
+</TextureAtlas>;
